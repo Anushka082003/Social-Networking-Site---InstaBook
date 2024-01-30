@@ -1,0 +1,12 @@
+Course Name: Programming in PHP 
+Course code: CM5103
+
+PHP Miniproject
+
+Group Members:
+		1. Anushka Rakshe	   1907053
+		2. Afrin Shaikh	   1907056
+		3. Jagruti Shinde	   1907063
+		4. Siddhant Sonawane   1907065
+
+Project Name: Social Networking Site in PHP

@@ -1,0 +1,13 @@
+*******Steps for Running The Project*********
+
+1. Run the XAMPP control panel and start MySQL and Apache
+2.Go to C:\xampp\htdocs and paste the folder named "socialnetwork"
+3.Open the browser and go to http://localhost/phpmyadmin/ to create the database
+4.Click the new to create a database.
+5.Name the database "socialnetwork"
+6.Click Import to import the SQL file.
+7.Click choose file and select the DDL.sql in the root folder of the source code
+8.Click go.
+9.Now run the code through the link - "http://localhost/socialnetwork/"
+
+Go and Create Account Now!
